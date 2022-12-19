@@ -2,7 +2,7 @@
 - 👀 I’m interested in Green Energy, IoT, Kubernetes
 - 🌱 I’m currently working on [Go Mojito](https://github.com/go-mojito/mojito)
 - 💞️ I’m looking for collaborators / users for [Go Mojito](https://github.com/go-mojito/mojito)
-- 📫 How to reach me: @NilaTheDragon on Twitter or Telegram
+- 📫 How to reach me: @NilaTheDragon on Twitter or Telegram or <a rel="me" href="https://derg.social/@nila">Mastodon</a>
 
 <!---
 nilathedragon/nilathedragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
